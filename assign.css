@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap');
+
+html
+{
+    font-size: 10px;
+}
+body
+{
+    font-family: inter, sans-serif;
+    background-color:bisque;
+    color:black;
+}
+
+.container
+{
+    background-color: bisque;
+    width: 97%;
+    margin: auto;
+    padding: 1rem;
+    margin-bottom:
+}
+
+img
+{
+    background-color: black;
+    width: 200;
+    border-radius: 50%;
+    margin: auto;
+    background-color: skyblue;
+    margin-left: 550px;
+    margin-right: 10px;
+    
+}
+.display_picture
+{
+    margin-top: -200;
+    background-color: ;
+    width: auto;
+}
+.first_name
+{
+    margin-bottom: -10px;
+    margin-top: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 7vw;
+    color: darkred;
+}
+.last_name
+{
+    margin-top: -50rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 7vw;
+    color:darkred;
+}
+a:hover
+{
+    color: darkred;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+.contact
+{
+    padding: 1px;
+    margin-top: -220;
+    margin-left: 920;
+}
+.mail
+{
+    font-weight: 800;
+    font-size: 14;
+    margin-bottom: 1rem;
+}
+.phno
+{
+    font-weight: 800;
+    margin-top: 1rem;
+    font-size: 14;
+}
+.in
+{
+    font-weight: 800;
+    margin-top: 1rem;
+    font-size: 14;
+}
+.git
+{
+    font-weight: 800;
+    margin-top: 1rem;
+    font-size: 14;
+}
+h1
+{
+    padding: 1;
+}
+hr
+{
+    color: red;
+    margin-top: 100;
+    display: block;
+    border: inset;
+    fill: darkred;
+
+}
+
+/* styling for the body division */
+
+.body
+{
+    margin-left: 10;
+    margin-top: 10px;
+    background-color: skyblue;
+
+}
+.objective
+{
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+    text-transform: uppercase;
+    background-color: aliceblue;
+}
+.objective_description
+{
+    font-size: 22;
+    text-decoration: none;
+}
+
+.academics
+{
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+    background-color: aliceblue
+}
+table td,tr,th
+{
+    background-origin: padding-box;
+    border: 1px solid;
+}
+.tb
+{
+    margin-top: 10px;
+    margin-left: 26%;
+}
+.skills
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+ul,li
+{
+    font-size: 22;
+    padding-bottom: 10px;
+}
+.other
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.project
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.project_description
+{
+    font-size: 18px;
+}
+ol
+{
+    font-size: 22;
+    padding-bottom: 10px;
+}
+.ti
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.hobbies
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.languages known
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 2px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.awards
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.dec
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.self_dec
+{
+    font-size: 18;
+}
+h3
+{
+    text-align: end;
+}
